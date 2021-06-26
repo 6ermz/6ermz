@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-Here are some ideas to get you started:
+### Hey! this is me 👋
 
 - 🔭 I’m currently working on ... Cyber Security Master's Degree at Montclair State University.
 - 🌱 I’m currently learning ... Network Security.
